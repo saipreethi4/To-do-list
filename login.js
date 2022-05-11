@@ -58,5 +58,5 @@ function validate(callback) {
   }
 }
 function redirect() {
-  window.location.href = "todo.html";
+  window.location.href = "todolist.html";
 }
